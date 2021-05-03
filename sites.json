@@ -1234,6 +1234,7 @@
         "url": "https://profile.codersrank.io/login",
         "difficulty": "hard",
         "notes": "Click the Feedback button on the right and fill in the form asking for deletion. They'll ask for you to reply from the signed up e-mail and then delete the account.",
+        "domains": [    
             "codersrank.io"
         ]
     },
