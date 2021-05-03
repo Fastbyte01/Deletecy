@@ -15,7 +15,7 @@ function updateSites(){
 			localStorage['lastUpdated'] = (new Date() * 1);
 		}
 	}, false);
-	req.open("GET", "https://raw.githubusercontent.com/Fastbyte01/deletecy_sites/master/sites.json", true);
+	req.open("GET", "https://raw.githubusercontent.com/Fastbyte01/Deletecy/master/sites.json", true);
 	req.send();
 }
 
