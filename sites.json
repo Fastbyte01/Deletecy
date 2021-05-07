@@ -1452,7 +1452,15 @@
             "cryptpad.fr"
         ]
     },
-
+    {
+        "name": "CTemplar",
+        "url": "https://mail.ctemplar.com/mail/settings/general",
+        "difficulty": "easy",
+        "notes": "To delete the account you need to reinsert your email and password. NOTE: After 12 months this username will be available for re-use by anyone who selects it.",
+        "domanis": [
+            "ctemplar.com"
+        ]
+    },
     {
         "name": "Curve",
         "url": "https://support.imaginecurve.com/hc/en-gb/articles/214179685-How-do-I-cancel-my-account",
