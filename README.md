@@ -1,5 +1,9 @@
 ![](img/icon_128.png)
 
+
+Available on <a href="https://chrome.google.com/webstore/detail/deletecy/cmfhjkelngkmihedfejfoabanbdahbcm">Chrome web store</a>
+
+
 ## Deletecy Chrome Extension
 
 Deletecy is a Chrome Extensions that provide link where you can delete account and informs you how hard is to delete your account.
