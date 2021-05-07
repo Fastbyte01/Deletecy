@@ -1452,6 +1452,7 @@
             "cryptpad.fr"
         ]
     },
+
     {
         "name": "CTemplar",
         "url": "https://mail.ctemplar.com/mail/settings/general",
@@ -1461,6 +1462,7 @@
             "ctemplar.com"
         ]
     },
+    
     {
         "name": "Curve",
         "url": "https://support.imaginecurve.com/hc/en-gb/articles/214179685-How-do-I-cancel-my-account",
