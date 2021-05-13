@@ -3,6 +3,8 @@
 
 Available on <a href="https://chrome.google.com/webstore/detail/deletecy/cmfhjkelngkmihedfejfoabanbdahbcm">Chrome web store</a>
 
+Available on <a href="https://microsoftedge.microsoft.com/addons/detail/deletecy/hmmofnookolpohhmgkiaggljcdhcpdbm" target="_blank"> Microsoft Edge Store</a>
+
 
 ## Deletecy Chrome Extension
 
