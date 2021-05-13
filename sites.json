@@ -331,6 +331,15 @@
     },
 
     {
+        "name": "Anchor.fm",
+        "url": "https://anchor.fm/dashboard/podcast/edit",
+        "difficulty": "easy",
+        "notes": "Click on 'Delete my account' button and click again on the 'Yes, delete my account' button",
+        "domains": [
+            "anchor.fm"
+        ]
+    },
+    {
         "name": "Android File Host (AFH)",
         "url": "https://androidfilehost.com/?w=contact",
         "difficulty": "hard",
