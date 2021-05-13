@@ -2952,6 +2952,16 @@
     },
 
     {
+        "name": "Insightly",
+        "url": "https://crm.na1.insightly.com/Account/CancelAccount",
+        "difficulty": "easy",
+        "notes": "Clic on the button 'Cancel and delete your account' and in the pop-up write 'Delete Everything' and then click on the button 'Delete your account'.",
+        "domains": [
+            "insightly.com"
+        ]
+    },
+
+    {
         "name": "Instagram",
         "url": "https://instagram.com/accounts/remove/request/permanent/",
         "difficulty": "easy",
