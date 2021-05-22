@@ -3393,6 +3393,16 @@
     },
 
     {
+        "name": "Linus Tech Tips",
+        "url": "https://linustechtips.com/privacy/",
+        "difficulty": "hard",
+        "notes": "You have to contact a staff member in the forum to have your account deleted.",
+        "domains": [
+            "linustechtips.com"
+        ]
+    },
+
+    {
         "name": "Listia",
         "url": "https://help.listia.com/hc/en-us/articles/203895428-How-do-I-delete-close-my-account-",
         "difficulty": "hard",
