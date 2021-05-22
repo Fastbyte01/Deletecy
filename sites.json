@@ -1811,6 +1811,15 @@
     },
 
     {
+        "name": "Drawpile",
+        "url": "https://drawpile.net/accounts/delete/",
+        "difficulty": "easy",
+        "domains": [
+            "drawpile.net"
+        ]
+    },
+
+    {
         "name": "Dribbble",
         "url": "https://dribbble.com/account",
         "difficulty": "easy",
