@@ -1189,6 +1189,16 @@
     },
 
     {
+        "name": "Codeberg",
+        "url": "https://codeberg.org/user/settings/account",
+        "difficulty": "easy",
+        "notes": "Log into your account, go to settings -> account and type in your password to delete your account.",
+        "domains": [
+            "codeberg.org"
+        ]
+    },
+
+    {
         "name": "Codecademy",
         "url": "https://www.codecademy.com/account/delete_acct",
         "difficulty": "easy",
