@@ -4953,6 +4953,19 @@
     },
 
     {
+        "name": "Riot Games",
+        "url": "https://support-valorant.riotgames.com/hc/en-us/requests/new?ticket_form_id=360004036693",
+        "difficulty": "hard",
+        "notes": "To delete your account, you need to open a support request from any game's support page. If your account is verified by the algorithm, you can use <a href=\"https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454-Deleting-Your-Riot-Account-and-All-Your-Data\">self service option</a>.",
+        "domains": [
+            "riotgames.com",
+            "playvalorant.com",
+            "leagueoflegends.com",
+            "playruneterra.com"
+        ]
+    },
+
+    {
         "name": "Rockstar Games Social Club",
         "url": "https://support.rockstargames.com/account/",
         "difficulty": "hard",
