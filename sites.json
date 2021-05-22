@@ -4886,6 +4886,17 @@
     },
 
     {
+        "name": "ProtonVPN",
+        "url": "https://account.protonvpn.com/account",
+        "difficulty": "easy",
+        "notes": "Click on the Delete Account button and follow the steps.",
+        "domains": [
+            "protonvpn.com",
+            "account.protonvpn.com"
+        ]
+    },
+
+    {
         "name": "Put.io",
         "url": "https://put.io/payment/billing",
         "difficulty": "easy",
