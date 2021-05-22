@@ -5397,6 +5397,17 @@
     },
 
     {
+        "name": "Surfshark",
+        "url": "https://surfshark.com/privacy-policy",
+        "difficulty": "hard",
+        "notes": "Send a mail to them requesting for account deletion.",
+        "email": "support@surfshark.com",
+        "domains": [
+            "surfshark.com"
+        ]
+    },
+
+    {
         "name": "SurveyMonkey",
         "url": "https://www.surveymonkey.com/user/account/",
         "difficulty": "easy",
