@@ -4476,6 +4476,17 @@
     },
 
     {
+        "name": "OpenStreetMaps",
+        "url": "https://wiki.openstreetmap.org/wiki/FAQ#How_can_I_close_my_account.3F",
+        "difficulty": "hard",
+        "notes": "You need to email an admin with the same email you used to register in order to delete your account.",
+        "email": "support@openstreetmap.org",
+        "domains": [
+            "openstreetmap.org"
+        ]
+    },
+
+    {
         "name": "Outlook",
         "url": "https://account.live.com/CloseAccount.aspx",
         "difficulty": "easy",
