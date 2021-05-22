@@ -4372,6 +4372,16 @@
     },
 
     {
+        "name": "NordVPN",
+        "url": "https://support.nordvpn.com/FAQ/1521982312/How-can-I-delete-my-account.htm",
+        "difficulty": "hard",
+        "notes": "Fill the form on the site to request deletion.Alternatively, use the Live Chat service to request deletion, located at the bottom right of the form.",
+        "domains": [
+            "nordvpn.com"
+        ]
+    },
+
+    {
         "name": "The Noun Project",
         "url": "https://thenounproject.zendesk.com/hc/en-us/articles/200509678-How-can-I-deactivate-my-user-account-",
         "email": "info@thenounproject.com",
