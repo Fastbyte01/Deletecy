@@ -3109,6 +3109,15 @@
             "apple.com"
         ]
     },
+    {
+       "name": "ITV"
+       "url": "https://www.itv.com/hub/user/profile",
+       ifficulty": "easy",
+       "notes": "Use the delete account option at the bottom of the page.",
+       "domains": [
+           "itv.com"
+       ]
+    },
 
     {
         "name": "iubenda",
