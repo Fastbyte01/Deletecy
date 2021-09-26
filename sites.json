@@ -282,6 +282,16 @@
             "airdroid.com"
         ]
     },
+    
+    {
+       "name": "Algolia",
+       "url": "https://www.algolia.com/account/details",
+       "difficulty": "easy",
+       "notes": "Go to your account settings, scroll to the bottom of Account Details, and select the Delete button next to \"Delete Account\".",
+       "domains": [
+           "algolia.com"
+       ]
+   },
 
     {
         "name": "Alibaba",
