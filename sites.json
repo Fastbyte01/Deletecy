@@ -5385,6 +5385,16 @@
             "spotify.com"
         ]
     },
+    
+    {
+       "name": "Spreadshirt",
+       "url": "https://my.spreadshirt.com/account/contact",
+       "difficulty": "medium",
+       "difficulty": "easy",
+       "notes": "Click 'Delete account' on the page, confirm with your password.",
+       "domains": [
+           "spreadshirt.com"
+    },
 
     {
         "name": "Stack Overflow / Stack Exchange Accounts",
