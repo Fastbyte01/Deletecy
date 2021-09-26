@@ -2913,6 +2913,18 @@
             "hp.com"
         ]
     },
+    
+    {
+       "name": "HTC",
+       "url": "https://www.htc.com/us/terms/privacy",
+       "difficulty": "hard",
+       "email": "global-privacy@htc.com",
+       "domains": [
+           "viveport.com",
+           "htcsense.com",
+           "htc.com"
+       ]
+   },
 
     {
         "name": "Huddle",
