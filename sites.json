@@ -6089,6 +6089,38 @@
             "yummly.com"
         ]
     },
+    
+    {
+       "name": "Zalando",
+       "url": "https://www.zalando.co.uk/myaccount/privacy/",
+       "difficulty": "easy",
+       "notes": "Click on the link, log in and then click on the "Delete your account" tab. Finally, click on "Request account and data deletion".",
+       "domains": [
+           "zalando.be"
+           "zalando.fr"
+           "zalando.co.uk"
+           "zalando.at"
+           "zalando.hr"
+           "zalando.cz"
+           "zalando.dk"
+           "zalando.ee"
+           "zalando.fi"
+           "zalando.de"
+           "zalando.ie"
+           "zalando.it"
+           "zalando.lv"
+           "zalando.lt"
+           "zalando.lu"
+           "zalando.nl"
+           "zalando.no"
+           "zalando.pl"
+           "zalando.sk"
+           "zalando.si"
+           "zalando.es"
+           "zalando.se"
+           "zalando.ch"
+       ]
+   },
 
     {
         "name": "Zapier",
