@@ -5213,6 +5213,15 @@
             "sellfy.com"
         ]
     },
+    
+    {
+    "name": "Shein",
+    "url": "https://shein.com/robot",
+    "difficulty": "hard",
+    "domains": [
+        "shein.com"
+    ]
+},
 
     {
         "name": "Shopify",
