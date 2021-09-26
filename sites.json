@@ -5206,6 +5206,17 @@
             "ryanair.com"
         ]
     },
+    
+    {
+       "name": "SamMobile",
+       "url": "https://www.sammobile.com/remove-account/",
+       "difficulty": "medium",
+       "notes": "Type in your password and click \"Submit\". Click the confirmation link sent to your email address.",
+       "domains": [
+           "sammobile.com"
+       ]
+   },
+
 
     {
         "name": "Samsung Account",
