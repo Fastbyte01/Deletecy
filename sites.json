@@ -3011,6 +3011,16 @@
             "ifttt.com"
         ]
     },
+    
+    {
+       "name": "Intel",
+       "url": "https://www.intel.com/content/www/us/en/secure/my-intel/frequently-asked-questions.html",
+       "difficulty": "easy",
+       "notes": "Navigate to your profile settings, click the pencil icon on the top right corner and then \"Request personal data deletion\". The account will be immediately deleted and you'll get a e-mai confirming the action.",
+       "domains": [
+           "intel.com"
+       ]
+   },
 
     {
         "name": "ImageShack",
@@ -4264,6 +4274,17 @@
             "myanimelist.net"
         ]
     },
+    
+    {
+       "name": "myESET",
+       "url": "https://my.eset.com/account",
+       "difficulty": "easy",
+       "notes": "At the bottom of the account page there is a Delete account button",
+       "domains": [
+           "eset.com",
+           "my.eset.com"
+       ]
+   },
 
     {
         "name": "MyFRITZ!",
