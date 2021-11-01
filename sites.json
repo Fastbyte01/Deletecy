@@ -692,7 +692,7 @@
     },
 
     {
-        "name": "Barnes and Noble",
+        "name": "Barnes & Noble",
         "url": "http://www.barnesandnoble.com/customerservice/contactus",
         "difficulty": "impossible",
         "notes": "It is not possible to delete your Barnes and Noble account. The best you can do is delete any personal information that you have stored on their website.",
@@ -1597,7 +1597,7 @@
         "name": "Dashlane",
         "url": "https://www.dashlane.com/deleteaccount",
         "difficulty": "easy",
-        "notes": "You have to enter your mailadress and have to choose a 'why are you leaving' answer'. To verify this step you'll become a mail with a security code to fill into the form. After that your account is deleted.",
+        "notes": "After entering the email address and selecting a reason for deletion, you will receive a security code by email. Enter the security code. After that, the account will be irretrievably deleted.",
         "domains": [
             "dashlane.com"
         ]
@@ -4499,9 +4499,8 @@
 
     {
         "name": "Nexus Mods",
-        "url": "https://help.nexusmods.com/article/25-how-do-i-delete-my-account",
+        "url": "https://users.nexusmods.com/account/security",
         "difficulty": "easy",
-        "notes": "Accounts can be deleted by following the instructions on the link",
         "domains": [
             "nexusmods.com"
         ]
