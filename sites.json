@@ -5688,6 +5688,16 @@
     },
 
     {
+        "name": "Synology",
+        "url": "https://account.synology.com/en-us/profile",
+        "difficulty": "easy",
+        "notes": "Login to your account, go to profile. Scroll to the bottom and click on the \"Proceed\" link. Type your password, check the checkbox and click on the next button. Finally, choose a reason and click on \"Delete Account\". Your account will be deleted in 10 days.",
+        "domains": [
+            "account.synology.com"
+        ]
+    },
+
+    {
         "name": "Surfshark",
         "url": "https://surfshark.com/privacy-policy",
         "difficulty": "hard",
