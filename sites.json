@@ -3745,6 +3745,37 @@
             "mapbox.com"
         ]
     },
+
+    {
+        "name": "MapMyFitness",
+        "url": "https://www.mapmyfitness.com/account/delete",
+        "difficulty": "easy",
+        "notes": "This will also delete the profiles for MapMyRun, MapMyWalk, and/or MapMyFitness that are associated with the same email",
+        "domains": [
+            "mapmyfitness.com"
+        ]
+    },
+
+    {
+        "name": "MapMyRun",
+        "url": "https://www.mapmyrun.com/account/delete",
+        "difficulty": "easy",
+        "notes": "This will also delete the profiles for MapMyRun, MapMyWalk, and/or MapMyFitness that are associated with the same email",
+        "domains": [
+            "mapmyrun.com"
+        ]
+    },
+
+    {
+        "name": "MapMyWalk",
+        "url": "https://www.mapmywalk.com/account/delete",
+        "difficulty": "easy",
+        "notes": "This will also delete the profiles for MapMyRun, MapMyWalk, and/or MapMyFitness that are associated with the same email",
+        "domains": [
+            "mapmywalk.com"
+        ]
+    },
+
     {
         "name": "Marvel",
         "url": "https://marvelapp.com/account/",
