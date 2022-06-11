@@ -291,6 +291,18 @@
             "airdroid.com"
         ]
     },
+
+    {
+        "name": "AirVPN",
+        "url": "https://airvpn.org/contact/",
+        "difficulty": "hard",
+        "notes": "Visit the linked form and submit a support ticket requesting account deletion. Make sure you are logged in so they can find your account, or specify your username in your message. Alternatively, you may also send an email.",
+        "email": "support@airvpn.org",
+        "domains": [
+            "airvpn.org",
+            "airvpn.dev"
+        ]
+    },
     
     {
        "name": "Algolia",
