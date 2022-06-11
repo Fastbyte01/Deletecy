@@ -3704,6 +3704,16 @@
     },
 
     {
+        "name": "Linode",
+        "url": "https://cloud.linode.com/account/settings",
+        "difficulty": "easy",
+        "notes": "At the bottom of the linked page select 'Close Account' and confirm your username.",
+        "domains": [
+            "linode.com"
+        ]
+    },
+
+    {
         "name": "Linus Tech Tips",
         "url": "https://linustechtips.com/privacy/",
         "difficulty": "hard",
