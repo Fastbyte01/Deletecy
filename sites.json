@@ -3049,6 +3049,16 @@
     },
 
     {
+        "name": "Icedrive",
+        "url": "https://icedrive.net/dashboard/#/page/settings",
+        "difficulty": "easy",
+        "notes": "Visit the linked page. Select the 'Privacy' tab, scroll down, click \"Delete Account, Files, and Data\" then confirm your password.",
+        "domains": [
+            "icedrive.net"
+        ]
+    },
+
+    {
         "name": "ICQ",
         "url": "https://www.icq.com/delete-account/",
         "difficulty": "easy",
