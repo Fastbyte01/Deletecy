@@ -64,9 +64,9 @@
 
     {
         "name": "500px",
-        "url": "https://500px.com/settings",
-        "difficulty": "hard",
-        "notes": "On Account Settings, under \"Please choose your issue below\", select \"Delete Account\", fill the form and submit.",
+        "url": "https://500px.com/settings/deletion",
+         "difficulty": "easy",
+         "notes": "Visit the linked page, select 'Delete your account', then click 'Continue'. Choose a reason why you're deleting your account and click 'Continue to delete account'. Finally, confirm your password and click 'Delete account'.",
         "domains": [
             "500px.com"
         ]
