@@ -6020,6 +6020,16 @@
         },
 
         {
+            "name": "TickTick",
+            "url": "https://support.ticktick.com/hc/en-us/articles/360011759031",
+            "difficulty": "easy",
+            "notes": "Follow the instructions from this link.",
+            "domains": [
+                "ticktick.com"
+            ]
+        },
+
+        {
             "name": "Tidal",
             "url": "https://support.tidal.com/hc/en-us/requests/new",
             "difficulty": "hard",
