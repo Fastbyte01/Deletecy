@@ -6021,6 +6021,16 @@
         },
 
         {
+            "name": "Tinder",
+            "url": "https://tinder.com/app/profile",
+            "difficulty": "easy",
+            "notes": "At the bottom of the profile page is a delete account buttom, after clicking on it, you can either hide it or delete your account entirely.",
+            "domains": [
+                "tinder.com"
+            ]
+        },
+
+        {
             "name": "Todoist",
             "url": "https://www.todoist.com/settings",
             "difficulty": "easy",
