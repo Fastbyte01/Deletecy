@@ -5567,6 +5567,15 @@
     },
 
     {
+        "name": "showRSS",
+        "url": "https://showrss.info/edit/delete",
+        "difficulty": "easy",
+        "domains": [
+            "showrss.info"
+        ]
+    },
+
+    {
         "name": "Shutterstock",
         "url": "https://www.shutterstock.com/account/profile",
         "difficulty": "easy",
