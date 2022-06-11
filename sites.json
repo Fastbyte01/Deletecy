@@ -1674,6 +1674,16 @@
     },
 
     {
+        "name": "Deutsche Post",
+        "url": "https://www.dhl.de/content/dpks/de/themenauswahl/kundenservice-formulare/f1b-datenschutz.html",
+        "difficulty": "hard",
+        "notes": "Fill out the form to request erasure.",
+        "domains": [
+            "deutschepost.de"
+        ]
+    },
+
+    {
         "name": "DEV",
         "url": "https://dev.to/settings/account",
         "difficulty": "easy",
