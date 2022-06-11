@@ -3462,6 +3462,16 @@
     },
 
     {
+        "name": "Kakao",
+        "url": "https://accounts.kakao.com/weblogin/deactivate",
+        "difficulty": "medium",
+        "notes": "Click the 'Settings' button on the KakaoTalk app, enter 'General Settings', 'Privacy', and 'Manage My Personal Info' in the drop-down menu, and click the 'Unregister Form KakaoTalk' menu to delete account. Note: If you don't use other Kakao linked services, you will immediately switch to delete your Kakao account. If you were using some services, delete all of them, and then click the provided link to delete your Kakao account. ",
+        "domains": [
+            "kakao.com"
+        ]
+    },
+
+    {
         "name": "Kaspersky",
         "url": "https://my.kaspersky.com",
         "difficulty": "easy",
