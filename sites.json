@@ -1117,8 +1117,9 @@
 
     {
         "name": "CafePress",
-        "url": "https://members.cafepress.com/account/closeaccount.aspx",
-        "difficulty": "easy",
+        "url": "https://www.cafepress.com/account/close-account",
+         "notes": "Visit the linked page and close your account, then contact customer service and ask to have your personal information deleted.",
+         "difficulty": "hard",
         "domains": [
             "cafepress.com"
         ]
