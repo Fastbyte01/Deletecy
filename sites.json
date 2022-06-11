@@ -5756,6 +5756,16 @@
     },
 
     {
+        "name": "Sync.com",
+        "url": "https://cp.sync.com/account/info",
+        "difficulty": "easy",
+        "notes": "Visit the linked page. Scroll to the bottom of the page and click 'Delete account'. Select a reason for deleting and type a brief description of why.",
+        "domains": [
+            "sync.com"
+        ]
+    },
+
+    {
         "name": "Synology",
         "url": "https://account.synology.com/en-us/profile",
         "difficulty": "easy",
