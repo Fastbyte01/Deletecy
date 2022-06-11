@@ -5381,6 +5381,16 @@
     },
 
     {
+        "name": "Read the Docs",
+        "url": "https://readthedocs.org/accounts/delete/",
+        "difficulty": "easy",
+        "notes": "On the linked page confirm your username and select 'Delete Account'.",
+        "domains": [
+            "readthedocs.org"
+        ]
+    },
+
+    {
         "name": "Redbubble",
         "url": "https://www.redbubble.com/account/settings/cancel",
         "difficulty": "easy",
