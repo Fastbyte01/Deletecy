@@ -303,6 +303,17 @@
             "airvpn.dev"
         ]
     },
+
+    {
+        "name": "AKAI Professional",
+        "url": "https://www.akaipro.com/privacy-policy",
+        "email": "privacy@inmusicbrands.com",
+        "difficulty": "hard",
+        "notes": "You need to contact support to delete your account and request deletion of your personal data.",
+        "domains": [
+            "akaipro.com"
+        ]
+    },
     
     {
        "name": "Algolia",
