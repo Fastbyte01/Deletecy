@@ -5237,9 +5237,9 @@
 
     {
         "name": "Reddit",
-        "url": "https://ssl.reddit.com/prefs/delete/",
-        "difficulty": "hard",
-        "notes": "You cannot delete your Reddit account; you can only deactivate it. Content posted to Reddit (posts and comments) must be deleted individually beforehand. If you are an EU citizen, see the 'Reddit (GDPR) entry on JustDeleteMe.",
+        "url": "https://www.reddit.com/prefs/delete/",
+        "difficulty": "easy",
+        "notes": "If you are opted in to the redesign, scroll to the bottom and click on the Delete Account button. Your content will not be deleted (only disassociated).",
         "domains": [
             "reddit.com"
         ]
