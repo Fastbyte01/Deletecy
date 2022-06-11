@@ -5700,6 +5700,16 @@
     },
 
     {
+        "name": "Smule",
+        "url": "https://smule.zendesk.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "Create a ticket, select 'Remove Smule Profile', fill in the necessary details and tick the boxes. Make sure to remove subscriptions from the required services too.",
+        "domains": [
+            "smule.com"
+        ]
+    },
+
+    {
         "name": "Snapchat",
         "url": "https://www.snapchat.com/a/delete_account",
         "difficulty": "easy",
