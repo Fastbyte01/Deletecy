@@ -4897,6 +4897,16 @@
     },
 
     {
+        "name": "Opera",
+        "url": "https://auth.opera.com/account/delete-profile",
+        "difficulty": "easy",
+        "notes": "On the linked page select 'Delete my account'.",
+        "domains": [
+            "opera.com"
+        ]
+    },
+
+    {
         "name": "OpenShift",
         "url": "https://developers.openshift.com/en/account-overview.html#_how_do_i_delete_my_account",
         "difficulty": "impossible",
