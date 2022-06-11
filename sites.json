@@ -4496,6 +4496,16 @@
        ]
    },
 
+   {
+    "name": "MyFonts",
+    "url": "https://www.myfonts.com/my/settings/",
+    "difficulty": "easy",
+    "notes": "At the bottom of the linked page select 'Delete your MyFonts account' and confirm your password.",
+    "domains": [
+        "myfonts.com"
+    ]
+},
+
     {
         "name": "MyFRITZ!",
         "url": "https://sso.myfritz.net/account/#/delete",
