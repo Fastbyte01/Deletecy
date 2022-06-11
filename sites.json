@@ -1058,9 +1058,9 @@
 
     {
         "name": "BrowserStack",
-        "url": "https://www.browserstack.com/contact",
-        "difficulty": "hard",
-        "notes": "Must send contact form requesting account deletion, using the \"Other\" category.",
+        "url": "https://www.browserstack.com/accounts/profile",
+         "difficulty": "easy",
+         "notes": "Scroll down and click on the \"Delete Account\" button, then enter 'delete' into the dialog and confirm.",
         "domains": [
             "browserstack.com"
         ]
