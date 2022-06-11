@@ -5654,8 +5654,8 @@
     {
         "name": "Stack Overflow / Stack Exchange Accounts",
         "url": "https://stackoverflow.com/help/deleting-account",
-        "difficulty": "hard",
-        "notes": "If you haven’t posted on the site, it’s just one click. If you have voted or posted, please contact the Stack Exchange Team: Visit the contact form and select ‘I need to delete my user profile’. After you contact us, the team will reach out with further instructions.",
+        "difficulty": "easy",
+         "notes": "If you have not posted on the site, your profile will be immediately deleted. If you have posted, your profile will be scheduled for deletion after 24 hours. Your posts will remain on the site under a generic username.",
         "domains": [
             "stackoverflow.com"
         ]
