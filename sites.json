@@ -5477,6 +5477,15 @@
             "sellfy.com"
         ]
     },
+
+    {
+        "name": "Sentry",
+        "url": "https://sentry.io/settings/account/close-account/",
+        "difficulty": "easy",
+        "domains": [
+            "sentry.io"
+        ]
+    },
     
     {
     "name": "Shein",
