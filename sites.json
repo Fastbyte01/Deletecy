@@ -4579,6 +4579,16 @@
     },
 
     {
+        "name": "NAVER",
+        "url": "https://nid.naver.com/user2/help/leaveId?menu=nid",
+        "difficulty": "medium",
+        "notes": "Re-registration is not possible with a deleted ID, and posts written on the bulletin board are not automatically deleted. So, make delete or make them private before you terminate your account. ",
+        "domains": [
+            "naver.com"
+        ]
+    },
+
+    {
         "name": "NCBI",
         "url": "https://www.ncbi.nlm.nih.gov/books/NBK3842/",
         "difficulty": "hard",
