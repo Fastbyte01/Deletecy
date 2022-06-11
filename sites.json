@@ -5576,6 +5576,16 @@
     },
 
     {
+        "name": "Shutterfly",
+        "url": "https://www.shutterfly.com/delete-account/",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and request account deletion. You will receive an email when your request is completed.",
+        "domains": [
+            "shutterfly.com"
+        ]
+    },
+
+    {
         "name": "Shutterstock",
         "url": "https://www.shutterstock.com/account/profile",
         "difficulty": "easy",
