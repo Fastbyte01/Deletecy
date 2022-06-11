@@ -5823,6 +5823,15 @@
     },
 
     {
+        "name": "Standard Notes",
+        "url": "https://standardnotes.com/reset",
+        "difficulty": "easy",
+        "domains": [
+            "standardnotes.com"
+        ]
+    },
+
+    {
         "name": "Starbucks",
         "url": "https://www.starbucks.com/terms/privacy-policy/#contact_us",
          "difficulty": "hard",
