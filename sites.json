@@ -5299,12 +5299,11 @@
 
     {
         "name": "Raindrop.io",
-        "url": "https://raindrop.io/app/#/settings/profile",
-        "difficulty": "hard",
-        "notes": "To delete your account, you need to send an e-mail to info@raindrop.io",
-        "email": "info@raindrop.io",
+        "url": "https://api.raindrop.io/v1/user/remove",
+         "difficulty": "easy",
         "domains": [
-            "raindrop.io"
+            "raindrop.io",
+            "app.raindrop.io"
         ]
     },
 
