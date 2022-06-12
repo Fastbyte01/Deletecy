@@ -932,7 +932,6 @@
         "url": "https://secure.bluebird.com/manage/settings/ProfileSettings",
         "difficulty": "medium",
         "notes": "Remove all funds from your account. Then go to settings in your account, click on the profile tab, and click close account.",
-        "notes_tr": "Hesabınızdaki tüm parayı kaldırın. Ardından hesabınızın ayarlarına girin, \"Profil\" sekmesine tıklayın ve \"Hesabı Kapat\" tuşuna basın.",
         "domains": [
             "bluebird.com"
         ]
@@ -943,7 +942,6 @@
         "url": "https://support.bluejeans.com/s/contactsupport",
         "difficulty": "hard",
         "notes": "Contact support via the contact form and request deletion of your account.",
-        "notes_tr": "İletişim formunu kullanarak müşteri hizmetlerine başvurun ve hesabınızın silinmesini talep edin.",
         "domains": [
             "bluejeans.com"
         ]
@@ -1090,7 +1088,6 @@
         "url": "https://server.tebex.io",
         "difficulty": "hard",
         "notes": "Buycraft was moved to Tebex, contact customer support to request account deletion",
-        "notes_tr": "Buycraft, Tebex'e taşındı, hesap silinmesini talep etmek için müşteri hizmetlerine başvurun",
         "domains": [
             "tebex.io"
         ]
@@ -1171,8 +1168,6 @@
         "url": "https://www.careerbuilder.com/User/UserConfirmation.aspx",
         "difficulty": "easy",
         "notes": "Must remove uploaded files first",
-        "notes_tr": "İlk olarak yüklediğiniz dosyaları kaldırmalısınız",
-        "notes_fr": "Il faut supprimer les fichiers téléchargés avant de supprimer votre compte.",
         "domains": [
             "careerbuilder.com"
         ]
@@ -1480,8 +1475,6 @@
         "url": "https://www.conte.it/privacy-unsubscribe/",
         "difficulty": "easy",
         "notes": "Fill out the form to request cancellation from Conte.it's insurance services.",
-        "notes_tr": "Conte.it'in sigorta hizmetlerinden hesabınızı silmeyi talep etmek için formu doldurun.",
-        "notes_it": "Compila il form per richiedere la cancellazione dai servizi assicurativi di Conte.it",
         "domains": [
             "conte.it"
         ]
@@ -3536,7 +3529,6 @@
        "url": "https://www.kinguin.net/about-us",
        "difficulty": "hard",
        "notes": "Have to contact them, they first will try to convince you not to delete your account, but if you keep trying, they can delete your account",
-       "notes_es": "Tienes que ponerte en contacto con ellos, al principio intentarán convencerte de que no borres tu cuenta, pero si continuas intentándolo, pueden borrártela.",
        "domains": [
            "kinguin.net"
        ]
@@ -3900,7 +3892,6 @@
         "url": "https://kb.mailfence.com/kb/how-can-i-delete-my-account/",
         "difficulty": "easy",
         "notes": "Go to 'Settings'->'General'->'Delete Account'.",
-        "notes_tr": "\"Ayarlar\" \"Genel\" \"Hesabı Sil\" tuşuna basın.",
         "domains": [
             "kb.mailfence.com",
             "mailfence.com"
@@ -6559,7 +6550,6 @@
         "url": "https://www.wish.com/settings/account",
         "difficulty": "medium",
         "notes": "You will have to edit your 'Country' in the profile to be a country covered by e.g. GDPR (for example, France). Otherwise, you will not see the 'Permanently delete account' option when you click on 'Manage Account' (you will only see 'Deactivate account').",
-        "notes_tr": "Profildeki \"Ülke\" ayarını, GDRP kapsamındaki bir ülke olarak değiştirmeniz gerekir. (örneğin, Fransa). Aksi takdirde, \"Hesabı Yönet\" tuşuna tıkladığınızda \"Hesabı kalıcı olarak sil\" seçeneğini görmeyeceksiniz (yalnızca \"Hesabı devre dışı bırak\" seçeneğini göreceksiniz).",
         "domains": [
             "wish.com"
         ]
