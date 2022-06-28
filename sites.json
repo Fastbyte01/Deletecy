@@ -6418,6 +6418,8 @@
         "notes": "Go to the account deletion page (while you are logged in), then check the checkbox that you really want to delete your account and press confirm.",
         "domains": [
             "vinted.de"
+            "vinted.com"
+            "vinted.it"
         ]
     },
 
