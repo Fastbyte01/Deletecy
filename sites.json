@@ -3868,7 +3868,8 @@
             "account.lyft.com"
         ]
     },
-
+    
+    {
     "name": "Macrumors",
     "url": "https://macrumors.zendesk.com/hc/en-us/articles/201260797-How-do-I-cancel-my-account-",
     "difficulty": "impossible",
@@ -6857,12 +6858,9 @@
 
     {
         "name": "Zynga",
-        "url": "https://zynga.com/privacy/faqs",
-        "difficulty": "hard",
-        "notes": "Place Delete My Account in the subject line and include your first name, last name, e-mail address and user ID number for the SNS from which you access our games (if applicable) in the body of the e-mail.",
-        "email": "privacy@zynga.com",
-        "email_subject": "Delete My Account",
-        "email_body": "My first and last name are XXXXXX XXXXXX, my e-mail address is XXXXXX, and my user ID number is XXXXXX",
+        "url": "https://privacy.zynga.com/portal/#/",
+         "difficulty": "medium",
+         "notes": "Select the game you want to delete your account from. Log in. Click on the FAQ tab on the top navigation bar. Then click “Go here to request account deletion”. Click the box indicating your understanding and then click Continue. To confirm deletion, click the box, select a reason, and then click Delete My Account. Your account deletion request is now pending. Expect the deletion request to be completed within 30 days of the request.",
         "domains": [
             "zynga.com"
         ]
