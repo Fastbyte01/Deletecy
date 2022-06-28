@@ -4063,7 +4063,8 @@
     {
         "name": "MediaFire",
         "url": "https://www.mediafire.com/myaccount/accountbilling.php",
-        "difficulty": "easy",
+         "difficulty": "medium",
+         "notes": "Scroll to the bottom of the page and click 'Delete my Account', make sure you're logged in and follow the steps.",
         "domains": [
             "mediafire.com"
         ]
