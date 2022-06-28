@@ -1174,6 +1174,18 @@
     },
 
     {
+        "name": "Castbox",
+        "url": "https://helpcenter.castbox.fm/portal/en/kb/articles/delete-account",
+        "email": "contact@castbox.fm",
+        "email_body": "Please delete my account. I use XXX to sign in. My email address is XXX.",
+        "difficulty": "hard",
+        "notes": "You must request account deletion by email. Include what method you use to sign in (Google, Twitter or Facebook, etc.) and your email address. If you have their Android app, visit the linked page for instructions on how to delete your account yourself.",
+        "domains": [
+            "castbox.fm"
+        ]
+    },
+
+    {
         "name": "CEX.IO",
         "url": "https://support.cex.io/",
         "email": "support@cex.io",
