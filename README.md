@@ -12,7 +12,7 @@ Deletecy is a Chrome Extensions that provide link where you can delete account a
 
 Upon clicking this icon you will be taken to the page which you can delete your account.
 
-Deletecy supports 600+ sites and apps. For the complete list go [here](https://github.com/Fastbyte01/Deletecy/wiki/List-of-supported-sites-and-apps).
+Deletecy supports 650+ sites and apps. For the complete list go [here](https://github.com/Fastbyte01/Deletecy/wiki/List-of-supported-sites-and-apps).
 
 Deletecy Use a color scheme to help you understand the difficult of the account removal of the site.
 
