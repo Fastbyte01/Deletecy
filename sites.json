@@ -2602,6 +2602,17 @@
     },
 
     {
+        "name": "GasBuddy",
+        "url": "https://help.gasbuddy.com/hc/en-us/requests/new?ticket_form_id=360001568313",
+        "difficulty": "hard",
+        "email": "privacyrequest@gasbuddy.com",
+        "notes": "GasBuddy is unresponsive to account deletion requests, but you can try submitting a support ticket anyway using the linked form. If you're a California resident, you can submit a request to have your personal information deleted. You may be asked to submit more personal information to verify your identity.",
+        "domains": [
+            "gasbuddy.com"
+        ]
+    },
+
+    {
         "name": "Gearbest",
         "url": "http://wap-support.gearbest.com/ticket/ticket/ticket-add",
         "difficulty": "hard",
