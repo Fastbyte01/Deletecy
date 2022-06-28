@@ -2101,9 +2101,9 @@
 
     {
         "name": "eBay",
-        "url": "https://ocsnext.ebay.com/ocs/ca",
-        "difficulty": "hard",
-        "notes": "A few survey questions will be asked prior to account deletion.",
+        "url": "https://accountsettings.ebay.ca/uas",
+         "difficulty": "medium",
+         "notes": "Hover over name on top left, click 'Account settings', click 'Close account' under the Account preferences column, then scroll down and click 'Close account and delete my data'. Select why you are leaving from drop down and continue. Click on checkmark and then click the left button to close your account. If you want an extra safety measure, replace all of your personal info with fake info before closing the account.",
         "domains": [
             "ebay.com"
         ]
@@ -2349,7 +2349,7 @@
             "expressvpn.com"
         ]
     },
-    
+
     {
         "name": "Facebook",
         "url": "https://www.facebook.com/help/delete_account?rdrhc",
