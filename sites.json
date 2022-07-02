@@ -5545,6 +5545,16 @@
     },
 
     {
+        "name": "RiseUp",
+        "url": "https://account.riseup.net",
+        "difficulty": "easy",
+        "notes": "Go to account.riseup.net > 'Login' > Press 'purge data' then press 'close account'. Finally, follow any instructions on screen.",
+        "domains": [
+            "riseup.net"
+        ]
+    },
+
+    {
         "name": "Rockstar Games Social Club",
         "url": "https://support.rockstargames.com/account/",
         "difficulty": "hard",
