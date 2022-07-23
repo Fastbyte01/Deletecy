@@ -383,9 +383,9 @@
 
     {
         "name": "Amazon AWS",
-        "url": "https://portal.aws.amazon.com/gp/aws/manageYourAccount?#productToCancel",
-        "difficulty": "easy",
-        "notes": "You must login before visiting the link.",
+        "url": "https://console.aws.amazon.com/billing/home#/account",
+        "difficulty": "impossible",
+        "notes": "AWS accounts are never entirely deleted, only closed.",
         "domains": [
             "amazon.com"
         ]
