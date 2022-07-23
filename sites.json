@@ -5455,6 +5455,16 @@
     },
 
     {
+        "name": "Renderforest",
+        "url": "https://www.renderforest.com/profile/account",
+        "difficulty": "easy",
+        "notes": "Click 'Delete account' in the middle of the page, then enter your password.",
+        "domains": [
+            "renderforest.com"
+        ]
+    },
+
+    {
         "name": "Quizlet",
         "url": "https://quizlet.com/delete-account",
         "difficulty": "easy",
