@@ -569,6 +569,16 @@
     },
 
     {
+        "name": "ASUS WebStorage",
+        "url": "https://service.asuswebstorage.com/contactus/",
+        "difficulty": "hard",
+        "notes": "Select \"Account related\" as the problem category and \"Request account deletion\" as the problem item.",
+        "domains": [
+            "asuswebstorage.com"
+        ]
+    },
+
+    {
         "name": "Aternos",
         "url": "https://aternos.org/close/",
         "difficulty": "easy",
