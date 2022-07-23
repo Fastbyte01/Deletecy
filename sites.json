@@ -2053,16 +2053,6 @@
     },
 
     {
-        "name": "Dubsmash",
-        "url": "https://dubsmash.com/delete-account",
-        "difficulty": "easy",
-        "notes": "Click at \"Delete now\" to confirm the deletion of your account.<br><br>You can also request the deletion of your account via <a href=\"mailto:support@dubsmash.com\">email</a>.",
-        "domains": [
-            "dubsmash.com"
-        ]
-    },
-
-    {
         "name": "Duolingo",
         "url": "https://www.duolingo.com/settings/deactivate",
         "difficulty": "easy",
