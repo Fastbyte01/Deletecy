@@ -5149,9 +5149,9 @@
 
     {
         "name": "PayPal",
-        "url": "https://www.paypal.com/us/cgi-bin/webscr?cmd=_close-account",
-        "difficulty": "impossible",
-        "notes": "Log in. Click 'Profile' near the top of the page. Click 'My settings'. Click 'Close Account' in the 'Account type' section and follow the steps listed. Your account is never deleted though.",
+        "url": "https://www.paypal.com/myaccount/privacy/data/deletion",
+        "difficulty": "medium",
+        "notes": "You must resolve any account limitations and outstanding payments or balance before closing.",
         "domains": [
             "paypal.com"
         ]
