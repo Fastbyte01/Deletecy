@@ -6109,7 +6109,7 @@
            "swappa.com"
        ]
    },
-   
+
    {
     "name": "T-Mobile",
     "url": "https://t-mobile.static.services.wirewheel.io/",
@@ -6296,6 +6296,16 @@
             "difficulty": "easy",
             "domains": [
                 "tumblr.com"
+            ]
+        },
+
+        {
+            "name": "Turtl",
+            "url": "https://turtlapp.com/users/delete/",
+            "difficulty": "easy",
+            "notes": "You only need to confirm your email address; there's no requirement to log in.",
+            "domains": [
+                "turtlapp.com"
             ]
         },
 
