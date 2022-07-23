@@ -6753,9 +6753,9 @@
 
     {
         "name": "Xing",
-        "url": "https://www.xing.com/help/help-and-faqs-2/general-stuff-55/xing-memberships-153/general-stuff-803/canceling-free-basic-membership-185",
+        "url": "https://www.xing.com/preferences/account",
         "difficulty": "easy",
-        "notes": "Select 'delete my profile' at the bottom of the page.",
+        "notes": "Select 'Delete Profile' at the bottom of the page.",
         "domains": [
             "xing.com"
         ]
