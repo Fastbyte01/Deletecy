@@ -6568,7 +6568,7 @@
         "name": "Walmart",
         "url": "https://help.walmart.com/app/answers/detail/a_id/230/~/how-to-close-your-walmart.com-account",
         "difficulty": "hard",
-        "notes": "Contact customer service to close your account.",
+        "notes": "They only accept requests from California, which is validated only by the actual selection on the form.",
         "domains": [
             "walmart.com"
         ]
