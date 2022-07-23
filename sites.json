@@ -5576,6 +5576,16 @@
     },
 
     {
+        "name": "Roku",
+        "url": "https://my.roku.com/account/close",
+        "difficulty": "medium",
+        "notes": "Factory reset your roku devices before deleting account.",
+        "domains": [
+            "roku.com"
+        ]
+    },
+
+    {
         "name": "Rosetta Stone",
         "url": "https://privacyportal-cdn.onetrust.com/dsarwebform/27aac3ab-c36e-4457-81d4-9773ba27887e/f1e6ce28-8f84-4cae-9bdd-bc40113d5ee0.html",
         "difficulty": "hard",
