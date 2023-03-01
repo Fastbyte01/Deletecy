@@ -2511,13 +2511,13 @@
     },
     
     {
-        "name": "Font Awesome"
-    "url": "https://fontawesome.com/privacy",
-    "difficulty": "hard",
-    "email": "privacy@fontawesome.com",
-    "notes": "Cancelling a PRO account already deletes it. Free accounts must be deleted by sending an e-mail.",
-    "domains": [
-        "fontawesome.com"
+        "name": "Font Awesome",
+        "url": "https://fontawesome.com/privacy",
+        "difficulty": "hard",
+        "email": "privacy@fontawesome.com",
+        "notes": "Cancelling a PRO account already deletes it. Free accounts must be deleted by sending an e-mail.",
+        "domains": [
+            "fontawesome.com"
     ]
     },
 
@@ -6569,8 +6569,8 @@
         "difficulty": "easy",
         "notes": "Go to the account deletion page (while you are logged in), then check the checkbox that you really want to delete your account and press confirm.",
         "domains": [
-            "vinted.de"
-            "vinted.com"
+            "vinted.de",
+            "vinted.com",
             "vinted.it"
         ]
     },
