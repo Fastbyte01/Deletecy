@@ -1,0 +1,16 @@
+{
+  "name": {
+    "message": "Deletecy",
+    "description": "Extension name"
+  },
+  "short_name": {
+    "message": "DLC",
+    "description": "Extension short name"
+  },
+  "description": {
+    "message": "不要になったアカウントは簡単に削除できる。",
+    "description": "Extension description"
+  }
+}
+
+_locales/en

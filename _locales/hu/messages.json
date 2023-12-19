@@ -1,0 +1,14 @@
+{
+  "name": {
+    "message": "Deletecy",
+    "description": "Extension name"
+  },
+  "short_name": {
+    "message": "DLC",
+    "description": "Extension short name"
+  },
+  "description": {
+    "message": "Egyszerűen törölje azt a fiókot, amelyre már nincs szüksége.",
+    "description": "Extension description"
+  }
+}
