@@ -6916,6 +6916,17 @@
     },
 
     {
+        "name": "Vueling",
+        "url": "https://tickets.vueling.com/DeleteUser.aspx",
+        "difficulty": "easy",
+        "notes": "Visit the linked page and enter your details to confirm the deletion of your account.",
+        "domains": [
+            "vueling.com",
+            "tickets.vueling.com"
+        ]
+    },
+
+    {
         "name": "Walmart",
         "url": "https://help.walmart.com/app/answers/detail/a_id/230/~/how-to-close-your-walmart.com-account",
         "difficulty": "hard",
