@@ -545,6 +545,17 @@
     },
 
     {
+        "name": "Asana",
+        "url": "https://app.asana.com",
+        "difficulty": "easy",
+        "notes": "Go to User Info, click Settings, Account and Delete My account at the bottom. After that, click 'Continue with deletion' button, pick a reason and type 'delete'.",
+        "domains": [
+            "asana.com",
+            "app.asana.com"
+        ]
+    },
+
+    {
         "name": "Asgardia.space",
         "url": "https://asgardia.space",
         "difficulty": "impossible",
@@ -6489,6 +6500,31 @@
             "notes": "Select 'Delete your account?' option to delete your account",
             "domains": [
                 "trello.com"
+            ]
+        },
+
+        {
+            "name": "Trenitalia",
+            "url": "https://www.trenitalia.com/en/info_contacts/delete-account.html",
+            "url_it": "https://www.trenitalia.com/it/informazioni/cancellazione-account.html",
+            "difficulty": "hard",
+            "notes": "You need to send a support request to delete your account",
+            "domains": [
+                "trenitalia.com",
+                "lefrecce.it"
+            ]
+        },
+   
+        {
+            "name": "Trenitalia France",
+            "url": "https://www.trenitalia.com/trenitalia-france/information-and-contacts/comment-supprimer-un-espace-reserve.html",
+            "difficulty": "hard",
+            "notes": "You need to send an email or a mail to request account deletion.",
+            "email": "dpo@trenitalia.fr",
+            "email_subject": "Demande de suppression de compte",
+            "domains": [
+                "trenitalia.com",
+                "trenitalia-france.fr"
             ]
         },
     
