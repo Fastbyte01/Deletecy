@@ -3284,6 +3284,16 @@
             "ifttt.com"
         ]
     },
+
+    {
+        "name": "IKEA",
+        "url": "https://www.ikea.com/gb/en/profile/dashboard/#login",
+        "difficulty" :"easy",
+        "notes": "Visit the linked page (or go to the Login & Security section in 'Manage Account') and click 'Delete Account', then enter your password.",
+        "domains": [
+            "ikea.com"
+        ]
+    },
     
     {
        "name": "Intel",
@@ -6697,11 +6707,12 @@
         },
     
         {
-            "name": "Twitter",
-            "url": "https://twitter.com/settings/accounts/confirm_deactivation",
+            "name": "X",
+            "url": "https://x.com/settings/deactivate",
             "difficulty": "easy",
             "notes": "Your account is deactivated before being deleted. After 30 days of remaining deactivated it will then be deleted.",
             "domains": [
+                "x.com",
                 "twitter.com"
             ]
         },
