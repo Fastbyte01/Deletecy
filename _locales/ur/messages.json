@@ -1,0 +1,14 @@
+{
+  "name": {
+    "message": "Deletecy",
+    "description": "Extension name"
+  },
+  "short_name": {
+    "message": "DLC",
+    "description": "Extension short name"
+  },
+  "description": {
+    "message": "آسانی سے وہ اکاؤنٹ حذف کریں جو آپ مزید نہیں چاہتے۔",
+    "description": "Extension description"
+  }
+}
