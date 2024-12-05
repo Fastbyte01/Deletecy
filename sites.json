@@ -5210,6 +5210,20 @@
     },
 
     {
+        "name": "OpenAI / ChatGPT",
+        "url": "https://chatgpt.com/#settings/DataControls",
+        "difficulty": "easy",
+        "notes": "Follow the link and under \"Delete account\" click \"Delete\".",
+        "domains": [
+            "chatgpt.com",
+            "openai.com",
+            "privacy.openai.com",
+            "auth.openai.com",
+            "platform.openai.com"
+        ]
+    },
+
+    {
         "name": "Opendesktop",
         "url": "https://www.opendesktop.org",
         "difficulty": "hard",
