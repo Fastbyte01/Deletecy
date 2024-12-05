@@ -1060,6 +1060,16 @@
        ]
    },
 
+   {
+    "name": "Brevo",
+    "url": "https://app.brevo.com/settings/advanced",
+    "difficulty": "easy",
+    "domains": [
+        "app.brevo.com",
+        "brevo.com"
+    ]
+},
+
     {
         "name": "Bring!",
         "url": "https://go.getbring.com/?link=https%3A%2F%2Fdeeplink.getbring.com%2Fview%2Fdeleteaccount&apn=ch.publisheria.bring&isi=580669177&ibi=ch.publisheria.bring",
@@ -1077,6 +1087,17 @@
         "notes": "Must send a request in writing. See this page for contact details <a href=\"https://www.britishairways.com/travel/contact-executive-club/execclub/_gf/en_us\">https://www.britishairways.com/travel/contact-executive-club/execclub/_gf/en_us</a>",
         "domains": [
             "britishairways.com"
+        ]
+    },
+
+    {
+        "name": "Broadcom Support",
+        "url": "https://knowledge.broadcom.com/external/article/368293/deleting-or-removing-broadcom-support-ac.html",
+        "difficulty": "hard",
+        "notes": "You need to send a request to the support",
+        "domains": [
+            "broadcom.com",
+            "vmware.com"
         ]
     },
 
