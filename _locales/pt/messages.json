@@ -1,0 +1,14 @@
+{
+  "name": {
+    "message": "Deletecy",
+    "description": "Extension name"
+  },
+  "short_name": {
+    "message": "DLC",
+    "description": "Extension short name"
+  },
+  "description": {
+    "message": "Exclua facilmente a conta que você não quer mais.",
+    "description": "Extension description"
+  }
+}
