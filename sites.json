@@ -595,6 +595,17 @@
     },
 
     {
+        "name": "ASUS",
+        "url": "https://privacy.asus.com/pi/global/privacy",
+        "difficulty": "easy",
+        "notes": "Go to the website, select your type of account and select which data you want to remove.",
+        "domains": [
+            "asus.com",
+            "account.asus.com"
+        ]
+    },
+
+    {
         "name": "ASUS WebStorage",
         "url": "https://service.asuswebstorage.com/contactus/",
         "difficulty": "hard",
@@ -7078,11 +7089,16 @@
 
     {
         "name": "WordPress.org",
-        "url": "https://wordpress.org/about/privacy/data-erasure-request",
-        "difficulty": "impossible",
-        "notes": "You can't delete your \"wordpress.org\" account but you can anonymize your data <a href='https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account'>https://wordpress.org/support/forum-user-guide/faq/#can-you-delete-my-account</a>",
+        "meta": "popular",
+        "url": "https://wordpress.org/about/privacy/data-erasure-request/",
+        "difficulty": "easy",
+        "notes": "Use the linked form to request account deletion. This will prompt an automatic request for verification of email-address ownership. Once you verify ownership of the email-address, then the account is deleted. Forum activity will be anonymized rather than deleted.",
         "domains": [
-            "wordpress.org"
+            "wordpress.org",
+            "WordPress.net",
+            "WordCamp.org",
+            "BuddyPress.org",
+            "bbPress.org"
         ]
     },
 
