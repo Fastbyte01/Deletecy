@@ -1,0 +1,14 @@
+{
+  "name": {
+    "message": "Deletecy",
+    "description": "Extension name"
+  },
+  "short_name": {
+    "message": "DLC",
+    "description": "Extension short name"
+  },
+  "description": {
+    "message": "आसानी से उस खाते को हटा दें जिसे आप अब और नहीं चाहते।",
+    "description": "Extension description"
+  }
+}
