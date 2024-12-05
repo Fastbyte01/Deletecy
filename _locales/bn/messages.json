@@ -1,0 +1,14 @@
+{
+  "name": {
+    "message": "Deletecy",
+    "description": "Extension name"
+  },
+  "short_name": {
+    "message": "DLC",
+    "description": "Extension short name"
+  },
+  "description": {
+    "message": "সহজেই সেই অ্যাকাউন্ট মুছে ফেলুন যা আপনি আর চান না।",
+    "description": "Extension description"
+  }
+}
