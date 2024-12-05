@@ -1431,6 +1431,16 @@
     },
 
     {
+        "name": "Codeium",
+        "url": "https://codeium.com/settings",
+        "difficulty": "easy",
+        "notes": "Scroll down and press the 'delete your account' button.",
+        "domains": [
+            "codeium.com"
+        ]
+    },
+
+    {
         "name": "CodePen",
         "url": "https://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
         "difficulty": "easy",
