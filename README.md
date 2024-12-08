@@ -1,28 +1,41 @@
 ![](img/icon_128.png)
 
+# Deletecy - Take Control of Your Online Presence
 
-Available on <a href="https://chrome.google.com/webstore/detail/deletecy/cmfhjkelngkmihedfejfoabanbdahbcm" target="_blank">Chrome web store</a>
+Deletecy is a browser extension designed to simplify the process of managing and deleting your online accounts. With its user-friendly interface and unique categorization system, Deletecy helps you regain control over your digital privacy by guiding you through the account deletion process on over 650 websites and apps.
 
-Available on <a href="https://microsoftedge.microsoft.com/addons/detail/deletecy/hmmofnookolpohhmgkiaggljcdhcpdbm" target="_blank"> Microsoft Edge Store</a>
+# 🚀 Key Features
 
+## 😎 Direct Access to Account Deletion Pages
+* No more tedious searches: Deletecy provides direct links to the pages where you can delete your accounts.
+ 
+## 👍 Intuitive Difficulty Rating System
+   
+Instantly know how challenging the deletion process will be with a clear color-coded system:
+* 🟢 Green: Quick and straightforward process.
+* 🟡 Yellow: Requires a few extra steps.
+* 🔴 Red: Requires contacting customer support.
+* ⚫ Black: Deletion is not possible.
 
-## Deletecy Chrome Extension
+## 🌐 Multi-Browser Compatibility
+Available on major platforms:
+*	[Chrome Web Store](https://chrome.google.com/webstore/detail/deletecy/cmfhjkelngkmihedfejfoabanbdahbcm)
+*	[Microsoft Edge Store](https://microsoftedge.microsoft.com/addons/detail/deletecy/hmmofnookolpohhmgkiaggljcdhcpdbm)
 
-Deletecy is a Chrome Extensions that provide link where you can delete account and informs you how hard is to delete your account.
+## 🙈 Privacy and Security First
+Deletecy is an open-source project, ensuring transparency and trust. It is distributed under the MIT license.
 
-Upon clicking this icon you will be taken to the page which you can delete your account.
+## 💡 Why Choose Deletecy?
 
-Deletecy supports 650+ sites and apps. For the complete list go [here](https://github.com/Fastbyte01/Deletecy/wiki/List-of-supported-sites-and-apps).
+In a world that’s increasingly connected, managing your online presence can be overwhelming. Deletecy saves you time and reduces stress, offering an easy solution to remove unused or unwanted accounts while keeping your digital footprint in check.
 
-Deletecy Use a color scheme to help you understand the difficult of the account removal of the site.
+## 👥 Contribute to the Project
 
+Deletecy is developed and maintained by Giuseppe Pignataro, with the support of the open-source community. Are you passionate about privacy and technology? Get involved by:
+* Suggesting new sites or accounts to add to the database.
+* Developing new features and improving the extension.
+* Sharing the project with others to spread the word.
 
-## Color Key:
-* ![](img/icon_easy_38.png) Green - Simple process
-* ![](img/icon_medium_38.png) Yellow - Some extra steps involved
-* ![](img/icon_hard_38.png) Red - Cannot be fully deleted without contacting customer-services
-* ![](img/icon_impossible_38.png) Black - Cannot be deleted
+## 📥 Download and Try Deletecy Today
 
-## Contributing
-
-If you'd like to help this extension by adding a few lines of code, fork https://github.com/Fastbyte01/Deletecy and send a pull request.
+Don’t wait! Simplify your online account management with Deletecy.
