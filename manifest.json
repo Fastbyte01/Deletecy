@@ -1,32 +1,28 @@
 {
-  "name": "__MSG_name__",
-  "short_name": "__MSG_short_name__",
-  "version": "3.0",
+  "name": "Deletecy - Easy delete account",
+  "short_name": "Deletecy",
+  "version": "4.0",
   "manifest_version": 3,
-  "description": "__MSG_description__",
+  "description": "Easily find and delete accounts you no longer want.",
   "default_locale": "en",
   "background": {
     "service_worker": "background.js"
   },
-  "host_permissions": [
-    "<all_urls>"
-  ],
-  "permissions": [
-    "storage",
-    "tabs"
-  ],
+  "host_permissions": ["<all_urls>"],
+  "permissions": ["storage", "tabs"],
   "icons": {
     "16": "img/icon_16.png",
     "48": "img/icon_48.png",
     "128": "img/icon_128.png"
   },
   "action": {
+    "default_popup": "popup.html",
     "default_icon": {
       "16": "img/icon_16.png",
       "48": "img/icon_48.png",
       "128": "img/icon_128.png"
     },
-    "default_title": "Deletecy - Easy delete account that you don't want more"
+    "default_title": "Deletecy - Easy delete account"
   },
   "homepage_url": "https://giuseppep.com/",
   "minimum_chrome_version": "88",

@@ -1,4 +1,3 @@
-// Declare the main variables
 let sites = {};
 const subdomains = [
   "www", "support", "mail", "ssl", "new", "cgi1", "en", "myaccount", "meta",
@@ -13,8 +12,6 @@ async function updateSites() {
     );
     if (response.ok) {
       sites = await response.json();
-
-      // Update local cache using chrome.storage.local
       chrome.storage.local.set({
         sites: sites,
         lastUpdated: Date.now(),
@@ -51,13 +48,10 @@ async function runUpdater() {
 
     if (cachedSites) {
       sites = cachedSites;
-
-      // Check if last update was more than a day ago
       if (Date.now() - (lastUpdated || 0) > 86400000) {
         await updateSites();
       }
     } else {
-      // No cached sites, fetch them
       await updateSites();
     }
   } catch (error) {
@@ -105,39 +99,32 @@ function getInfo(url) {
   return false;
 }
 
-// Add listener for tab updates
+// Listener for requests from popup
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+  if (message.action === "getSiteInfo" && message.url) {
+    const info = getInfo(message.url);
+    sendResponse({ info });
+  }
+  return true; // Indicates asynchronous response
+});
+
+// Update icon and title on tab updates
 chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
   if (changeInfo.status === "loading") {
     const info = getInfo(tab.url);
 
     if (info) {
-      if (info.notes) {
-        chrome.action.setTitle({ tabId, title: `${info.name}: ${info.notes}` });
-      }
+      chrome.action.setTitle({ tabId, title: `${info.name}: ${info.notes || "No notes"}` });
       chrome.action.setIcon({
         tabId,
-        path: `../img/icon_${info.difficulty}_38.png`,
+        path: `img/icon_${info.difficulty}_38.png`, // Assumes icons for difficulty levels
       });
-      chrome.action.enable(tabId); // Enable the action icon
+      chrome.action.enable(tabId);
     } else {
-      chrome.action.setTitle({
-        tabId,
-        title: "No account deletion info available",
-      });
-      chrome.action.setIcon({
-        tabId,
-        path: "../img/icon_48.png",
-      });
-      chrome.action.disable(tabId); // Disable the action icon
+      chrome.action.setTitle({ tabId, title: "No account deletion info available" });
+      chrome.action.setIcon({ tabId, path: "img/icon_48.png" });
+      chrome.action.disable(tabId);
     }
-  }
-});
-
-// Add listener for action clicks
-chrome.action.onClicked.addListener((tab) => {
-  const info = getInfo(tab.url);
-  if (info) {
-    chrome.tabs.create({ url: info.url });
   }
 });
 

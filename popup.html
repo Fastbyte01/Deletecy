@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Deletecy Notes</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 10px;
+      width: 300px;
+    }
+    #info {
+      margin-top: 10px;
+    }
+    #open-url {
+      margin-top: 10px;
+      padding: 10px;
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    #open-url:disabled {
+      background-color: #ccc;
+      cursor: not-allowed;
+    }
+  </style>
+</head>
+<body>
+  <h2>Deletecy Info</h2>
+  <div id="info">Loading...</div>
+  <button id="open-url" disabled>Open Account Deletion Page</button>
+  <script src="popup.js"></script>
+</body>
+</html>
