@@ -19,8 +19,8 @@ Instantly know how challenging the deletion process will be with a clear color-c
 
 ## 🌐 Multi-Browser Compatibility
 Available on major platforms:
-*	[Chrome Web Store](https://chrome.google.com/webstore/detail/deletecy/cmfhjkelngkmihedfejfoabanbdahbcm)
-*	[Microsoft Edge Store](https://microsoftedge.microsoft.com/addons/detail/deletecy/hmmofnookolpohhmgkiaggljcdhcpdbm)
+* [Chrome Web Store](https://chrome.google.com/webstore/detail/deletecy/cmfhjkelngkmihedfejfoabanbdahbcm)
+* [Microsoft Edge Store](https://microsoftedge.microsoft.com/addons/detail/deletecy/hmmofnookolpohhmgkiaggljcdhcpdbm)
 
 ## 🙈 Privacy and Security First
 Deletecy is an open-source project, ensuring transparency and trust. It is distributed under the MIT license.
