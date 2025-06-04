@@ -69,7 +69,9 @@ function getHostname(url, optsStrict = false) {
 
   let hostname = urlObj.hostname;
   subdomains.forEach((sub) => {
-    hostname = hostname.replace(`${sub}.`, "");
+    if (hostname.startsWith(sub + ".")) {
+      hostname = hostname.slice(sub.length + 1);
+    }
   });
 
   return hostname;
