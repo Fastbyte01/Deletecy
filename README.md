@@ -1,3 +1,5 @@
+
+
 ![](img/icon_128.png)
 
 # Deletecy - Take Control of Your Online Presence
@@ -7,7 +9,7 @@ Deletecy is a browser extension designed to simplify the process of managing and
 # 🚀 Key Features
 
 ## 😎 Direct Access to Account Deletion Pages
-* No more tedious searches: Deletecy provides direct links to the pages where you can delete your accounts.
+* No more tedious searches: Deletecy provides direct links to the pages where you can delete your accounts. The supported sites list is updated automatically from the project repository.
  
 ## 👍 Intuitive Difficulty Rating System
    
